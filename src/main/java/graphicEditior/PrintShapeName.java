@@ -1,4 +1,4 @@
-package main.java.graphicEditior;
+package graphicEditior;
 
 public class PrintShapeName {
     public PrintShapeName(Shape shape) {

@@ -1,4 +1,4 @@
-package main.java.graphicEditior;
+package graphicEditior;
 
 public class Main {
     public static void main(String[] args) {

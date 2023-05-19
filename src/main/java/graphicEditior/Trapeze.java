@@ -1,4 +1,4 @@
-package main.java.graphicEditior;
+package graphicEditior;
 
 public class Trapeze extends Shape{
     public Trapeze() {

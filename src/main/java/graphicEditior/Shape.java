@@ -1,4 +1,4 @@
-package main.java.graphicEditior;
+package graphicEditior;
 
 public class Shape {
     private String name;
