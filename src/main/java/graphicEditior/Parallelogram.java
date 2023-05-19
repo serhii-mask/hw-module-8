@@ -1,4 +1,4 @@
-package main.java.GraphicEditior;
+package main.java.graphicEditior;
 
 public class Parallelogram extends Shape {
     public Parallelogram() {
